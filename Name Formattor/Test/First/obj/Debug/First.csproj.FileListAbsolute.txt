@@ -1,0 +1,20 @@
+C:\Users\jonesd5294\Desktop\Test\First\bin\Debug\First.exe.config
+C:\Users\jonesd5294\Desktop\Test\First\bin\Debug\First.exe
+C:\Users\jonesd5294\Desktop\Test\First\bin\Debug\First.pdb
+C:\Users\jonesd5294\Desktop\Test\First\obj\Debug\First.csproj.AssemblyReference.cache
+C:\Users\jonesd5294\Desktop\Test\First\obj\Debug\First.Form1.resources
+C:\Users\jonesd5294\Desktop\Test\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\jonesd5294\Desktop\Test\First\obj\Debug\First.csproj.GenerateResource.cache
+C:\Users\jonesd5294\Desktop\Test\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\jonesd5294\Desktop\Test\First\obj\Debug\First.exe
+C:\Users\jonesd5294\Desktop\Test\First\obj\Debug\First.pdb
+D:\C#\Name Formattor\Test\First\bin\Debug\First.exe.config
+D:\C#\Name Formattor\Test\First\bin\Debug\First.exe
+D:\C#\Name Formattor\Test\First\bin\Debug\First.pdb
+D:\C#\Name Formattor\Test\First\obj\Debug\First.csproj.AssemblyReference.cache
+D:\C#\Name Formattor\Test\First\obj\Debug\First.Form1.resources
+D:\C#\Name Formattor\Test\First\obj\Debug\First.Properties.Resources.resources
+D:\C#\Name Formattor\Test\First\obj\Debug\First.csproj.GenerateResource.cache
+D:\C#\Name Formattor\Test\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+D:\C#\Name Formattor\Test\First\obj\Debug\First.exe
+D:\C#\Name Formattor\Test\First\obj\Debug\First.pdb
