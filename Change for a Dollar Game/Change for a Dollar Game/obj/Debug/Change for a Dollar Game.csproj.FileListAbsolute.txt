@@ -1,0 +1,20 @@
+F:\C#\WindowsForms\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.AssemblyReference.cache
+F:\C#\WindowsForms\Change for a Dollar Game\obj\Debug\Change_for_a_Dollar_Game.Form1.resources
+F:\C#\WindowsForms\Change for a Dollar Game\obj\Debug\Change_for_a_Dollar_Game.Properties.Resources.resources
+F:\C#\WindowsForms\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.GenerateResource.cache
+F:\C#\WindowsForms\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.CoreCompileInputs.cache
+F:\C#\WindowsForms\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.exe.config
+F:\C#\WindowsForms\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.exe
+F:\C#\WindowsForms\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.pdb
+F:\C#\WindowsForms\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.exe
+F:\C#\WindowsForms\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.pdb
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.exe.config
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.exe
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\bin\Debug\Change for a Dollar Game.pdb
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.AssemblyReference.cache
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change_for_a_Dollar_Game.Form1.resources
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change_for_a_Dollar_Game.Properties.Resources.resources
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.GenerateResource.cache
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.csproj.CoreCompileInputs.cache
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.exe
+F:\C#\Change for a Dollar Game\Change for a Dollar Game\obj\Debug\Change for a Dollar Game.pdb
