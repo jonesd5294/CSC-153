@@ -1,7 +1,0 @@
-C:\Users\jonesd5294\Desktop\HelloWorld\ConsoleUI\bin\Debug\ConsoleUI.exe.config
-C:\Users\jonesd5294\Desktop\HelloWorld\ConsoleUI\bin\Debug\ConsoleUI.exe
-C:\Users\jonesd5294\Desktop\HelloWorld\ConsoleUI\bin\Debug\ConsoleUI.pdb
-C:\Users\jonesd5294\Desktop\HelloWorld\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
-C:\Users\jonesd5294\Desktop\HelloWorld\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
-C:\Users\jonesd5294\Desktop\HelloWorld\ConsoleUI\obj\Debug\ConsoleUI.exe
-C:\Users\jonesd5294\Desktop\HelloWorld\ConsoleUI\obj\Debug\ConsoleUI.pdb
